@@ -1,0 +1,46 @@
+#box1{
+    box-sizing: border-box;
+    width: 900px;
+    height: 100px;
+    background-color: lightgrey;
+}
+
+#box2{
+    box-sizing: border-box;
+    width: 80px;
+    height: 80px;
+    background-color: steelblue;
+    margin-top: 10px;
+    margin-left: 20px;
+    float: left;
+}
+#box3{
+    box-sizing: border-box;
+    width: 900px;
+    padding: 30px 30px;
+    font-family: sans-serif;
+}
+#box4{
+    box-sizing: border-box;
+    width: 900px;
+    height: 100px;
+    background-color: steelblue;
+}
+#box5{
+    box-sizing: border-box;
+    width: 900px;
+    height: 100px;
+    background-color: aqua;
+}
+#box6{
+    box-sizing: border-box;
+    width: 900px;
+    height: 100px;
+    background-color: lightgreen;
+}
+#box7{
+    box-sizing: border-box;
+    width: 900px;
+    height: 100px;
+    background-color: yellow;
+}
